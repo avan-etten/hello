@@ -1,0 +1,12 @@
+{
+  "name": "avanette/328/hello",
+  "authors": [
+  {
+    "name": "Alec",
+    "email": "avan-etten@mail.greenriver.edu"
+  }
+    ],
+  "require":{
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
